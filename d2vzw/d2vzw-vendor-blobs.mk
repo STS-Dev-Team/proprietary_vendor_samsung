@@ -39,11 +39,6 @@ PRODUCT_COPY_FILES += \
         vendor/samsung/d2vzw/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
         vendor/samsung/d2vzw/proprietary/lib/libaudcal.so:system/lib/libaudcal.so \
         vendor/samsung/d2vzw/proprietary/lib/libaudioalsa.so:system/lib/libaudioalsa.so \
-        vendor/samsung/d2vzw/proprietary/lib/libsamsungRecord.so:system/lib/libsamsungRecord.so \
-        vendor/samsung/d2vzw/proprietary/lib/libaudiopolicy_sec.so:system/lib/libaudiopolicy_sec.so \
-        vendor/samsung/d2vzw/proprietary/lib/lib_Samsung_Resampler.so:system/lib/lib_Samsung_Resampler.so \
-        vendor/samsung/d2vzw/proprietary/lib/lib_SamsungRec_V01005.so:system/lib/lib_SamsungRec_V01005.so \
-        vendor/samsung/d2vzw/proprietary/lib/libcontrolcsc.so:system/lib/libcontrolcsc.so \
         vendor/samsung/d2vzw/proprietary/lib/libmm-color-convertor.so:system/lib/libmm-color-convertor.so \
         vendor/samsung/d2vzw/proprietary/lib/libmmparser.so:system/lib/libmmparser.so \
         vendor/samsung/d2vzw/proprietary/lib/libmmosal.so:system/lib/libmmosal.so \
